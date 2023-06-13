@@ -5,4 +5,3 @@ const getMusics = async (id) => {
 };
 
 export default getMusics;
- 
