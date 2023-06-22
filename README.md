@@ -47,7 +47,7 @@ To ensure the quality of the code, I used the `ESLint` and `StyleLint` linters i
 
   In addition to code quality and meeting requirements, a good layout is one of the aspects responsible for improving the usability of an application.
 
-  For that, I made available this [Figma prototype](https://www.figma.com/file/pkocuFSMsqmUqvMUbsfcRp/%5BProjeto%5D%5BFrontend%5D-Trybetunes?node-id=0%3A1) to help you!
+  For that, I made available this [Figma prototype](https://www.figma.com/file/pkocuFSMsqmUqvMUbsfcRp/%5BProjeto%5D%5BFrontend%5D-Trybetunes?node-id=0%3A1).
 
 
   
