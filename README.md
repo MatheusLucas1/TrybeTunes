@@ -1,10 +1,14 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+In the TrybeTunes project, I developed an application capable of playing songs from the most varied bands and artists, creating a list of favorite songs and editing the user's profile. This application will be able to:
+
+Login;
+Search for a band or artist;
+List available albums by that band or artist;
+View songs from a selected album;
+Play a preview of songs from this album;
+Favorite and unfavorite songs;
+View the list of favorite songs;
+View the profile of the logged-in person;
+Edit the profile of the logged-in person;
+memo Skills
+
+In the future I intend to develop a backend for this application
