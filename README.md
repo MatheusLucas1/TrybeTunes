@@ -31,3 +31,23 @@ In this project I aplied concepts of:
 - Using `Switch` from `React Router`
 
 - Create navigation links in the application with the `Link` component;
+
+<summary><strong>🎛 Linter</strong></summary><br />
+
+To ensure the quality of the code, I used the `ESLint` and `StyleLint` linters in this project.
+  This way the code will be in line with good development practices, being more readable
+  and easy to maintain! To run them locally in the project, run the commands below:
+
+  ```bash
+    npm run lint
+    npm run lint:styles
+  ```
+</details>
+  <summary><strong>💻 Project prototype in Figma</strong></summary><br />
+
+  In addition to code quality and meeting requirements, a good layout is one of the aspects responsible for improving the usability of an application.
+
+  For that, I made available this [Figma prototype](https://www.figma.com/file/pkocuFSMsqmUqvMUbsfcRp/%5BProjeto%5D%5BFrontend%5D-Trybetunes?node-id=0%3A1) to help you!
+
+
+  
