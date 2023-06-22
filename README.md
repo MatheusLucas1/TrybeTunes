@@ -1,4 +1,4 @@
-In the TrybeTunes project, I developed an application capable of playing songs from the most varied bands and artists, creating a list of favorite songs and editing the user's profile. This application will be able to:
+In the TrybeTunes project, I developed an application similar to spotify, capable of playing songs from the most varied bands and artists, creating a list of favorite songs and editing the user's profile. This application will be able to:
 
 Login;
 Search for a band or artist;
