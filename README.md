@@ -49,7 +49,11 @@ To ensure the quality of the code, I used the `ESLint` and `StyleLint` linters i
 
   For that, I made available this [Figma prototype](https://www.figma.com/file/pkocuFSMsqmUqvMUbsfcRp/%5BProjeto%5D%5BFrontend%5D-Trybetunes?node-id=0%3A1).
 
-  The deployed project is in this link: [Trybe Tunes Project](https://trybe-tunes-inky.vercel.app/)
+  The deployed project is in this link: 
+
+  [Trybe Tunes Project Vercel](https://trybe-tunes-inky.vercel.app/)
+  [Trybe Tunes Project AWS Amplify](https://main.dwn24yppjbji.amplifyapp.com/)
+
 
 
   
